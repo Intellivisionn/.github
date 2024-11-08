@@ -54,9 +54,9 @@ Get to know the dedicated members of IntelliVision! Check out our individual Git
 
 Here’s a sneak peek into our ongoing projects:
 
-- **MoldyCampus**: university and professor rating webapp inspired by Rotten Tomatoes. This project is being developed as part of the "Web Technologies" course, with hopes to turn it into a startup.
+- [**MoldyCampus**](https://github.com/Intellivisionn/MoldyCampus): university and professor rating webapp inspired by Rotten Tomatoes. This project is being developed as part of the "Web Technologies" course, with hopes to turn it into a startup.
 
-- **unsTable**:  office space & workers health optimisation system that was inspired and is being developed as part of the "Semester Project" course.
+- [**unsTable**](https://github.com/Intellivisionn/UnsTable):  office space & workers health optimisation system that was inspired and is being developed as part of the "Semester Project" course.
 
 Stay tuned for updates as we continue to develop and refine our projects!
 
