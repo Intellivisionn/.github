@@ -4,11 +4,11 @@
 
 Welcome to IntelliVision’s GitHub page!
 
-We are a team of students pursuing a BSc in Software Engineering at the University of Southern Denmark (SDU) in Sønderborg. Currently in our 3rd semester, we’re diving deep into the exciting world of software and web development as part of our studies in **Web Technologies** and **Semester Projects**.
+We are a team of students pursuing a BSc in Software Engineering at the University of Southern Denmark (SDU) in Sønderborg. 2024-2025 3rd and 4th Semesters. We’re diving deep into the exciting world of software and web development as part of our studies in **Web Technologies** and **Semester Projects**.
 
 ## About IntelliVision 👾
 
-We bulldoze through web technologies and semester project courses through innovative projects that challenge us to grow and explore new skills. From interactive web apps to intelligent systems, we’re dedicated to creating impactful solutions that not only meet academic requirements but also hold real-world value.
+We bulldoze through courses with innovative projects that challenge us to grow and explore new skills. From interactive web apps to intelligent systems, we’re dedicated to creating impactful solutions that not only meet academic requirements but also hold real-world value.
 
 Each of us brings a unique set of skills and experiences to the table, whether in coding, design, or problem-solving. Together, we’re committed to learning, experimenting, and building meaningful projects that reflect our shared passion for technology.
 
@@ -54,9 +54,11 @@ Get to know the dedicated members of IntelliVision! Check out our individual Git
 
 Here’s a sneak peek into our ongoing projects:
 
-- [**MoldyCampus**](https://github.com/Intellivisionn/MoldyCampus): university and professor rating webapp inspired by Rotten Tomatoes. This project is being developed as part of the "Web Technologies" course, with hopes to turn it into a startup.
+- [**MoldyCampus**](https://github.com/Intellivisionn/MoldyCampus): university and professor rating webapp inspired by Rotten Tomatoes. This project was developed as part of the "Web Technologies" course.
 
-- [**unsTable**](https://github.com/Intellivisionn/UnsTable):  office space & workers health optimisation system that was inspired and is being developed as part of the "Semester Project" course.
+- [**unsTable**](https://github.com/Intellivisionn/UnsTable):  office space & workers health optimisation system that was inspired and was developed as part of the "Semester Project" course.
+
+- [**Electric Nose**] a sensor-based smell recognition system developed as part of the current semester project, running on Raspberry Pi for real-time data collection and processing.
 
 Stay tuned for updates as we continue to develop and refine our projects!
 
