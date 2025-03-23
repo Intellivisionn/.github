@@ -56,7 +56,7 @@ Here’s a sneak peek into our ongoing projects:
 
 - [**MoldyCampus**](https://github.com/Intellivisionn/MoldyCampus): university and professor rating webapp inspired by Rotten Tomatoes. This project was developed as part of the "Web Technologies" course.
 
-- [**unsTable**](https://github.com/Intellivisionn/UnsTable):  office space & workers health optimisation system that was inspired and was developed as part of the "Semester Project" course.
+- [**unsTable**](https://github.com/Intellivisionn/UnsTable):  office space & workers health optimisation system that was inspired and was developed as part of the "Semester Project" course in 3rd Semester.
 
 - [**Electric Nose**] a sensor-based smell recognition system developed as part of the current semester project, running on Raspberry Pi for real-time data collection and processing.
 
